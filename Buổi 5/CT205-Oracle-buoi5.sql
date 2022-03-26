@@ -1,0 +1,3 @@
+--############################### Buoi 5    #################################
+---create tables in BT_MOVIE.sql
+---grant privileges and inserts in BT_MOVIE_CHEATSHEET.sql
